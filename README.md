@@ -1,2 +1,11 @@
-# Chat-UI
-Built a clean and responsive chat UI using HTML and CSS with a modern social media style interface.
+💬 Chat UI (HTML & CSS)
+
+A simple and clean social-media style chat interface built using only HTML and CSS.
+
+✨ Features
+
+Sidebar with chat list
+Active chat highlight
+Message bubbles
+Input box layout
+Responsive & modern UI
