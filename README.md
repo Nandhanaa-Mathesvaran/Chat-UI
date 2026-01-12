@@ -4,12 +4,12 @@ A simple and clean social-media style chat interface built using only HTML and C
 
 ✨ Features
 
-Sidebar with chat list
+Sidebar with chat list (Aanya, Kavya, Meera, Ishita)
 
-Active chat highlight
+Active chat highlight (Aanya is active)
 
-Message bubbles
+Message bubbles (left & right messages)
 
-Input box layout
+Input box layout with text field and send button
 
-Responsive & modern UI
+Clean modern UI with rounded corners and spacing
